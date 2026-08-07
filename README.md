@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0009-palindrome-number) |
+| [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
 | [2427-number-of-common-factors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
