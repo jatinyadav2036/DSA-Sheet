@@ -63,11 +63,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
