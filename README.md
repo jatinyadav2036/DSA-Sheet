@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
@@ -77,6 +78,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -95,4 +97,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
