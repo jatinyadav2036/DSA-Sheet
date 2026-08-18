@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 ## String
 |  |
