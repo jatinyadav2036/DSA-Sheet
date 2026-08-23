@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 ## Recursion
@@ -135,4 +137,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
