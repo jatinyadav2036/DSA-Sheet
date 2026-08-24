@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Backtracking
 |  |
