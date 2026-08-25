@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
