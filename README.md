@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
@@ -87,6 +88,7 @@
 | [0014-longest-common-prefix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 ## Recursion
@@ -99,10 +101,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
