@@ -194,4 +194,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
