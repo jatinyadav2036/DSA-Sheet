@@ -120,6 +120,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0278-first-bad-version) |
 ## Backtracking
 |  |
 | ------- |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0203-remove-linked-list-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
