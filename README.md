@@ -49,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -56,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prime Factorization
@@ -85,6 +87,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0035-search-insert-position](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,6 +144,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Quicksort
 |  |
 | ------- |
