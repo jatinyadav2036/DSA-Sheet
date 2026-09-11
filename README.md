@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0367-valid-perfect-square) |
+| [0479-largest-palindrome-product](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0479-largest-palindrome-product) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
@@ -22,6 +23,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0479-largest-palindrome-product) |
 | [2427-number-of-common-factors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
