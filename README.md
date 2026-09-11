@@ -112,6 +112,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
