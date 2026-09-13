@@ -50,6 +50,7 @@
 | [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
