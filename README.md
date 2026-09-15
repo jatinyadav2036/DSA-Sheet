@@ -53,6 +53,7 @@
 | [0118-pascals-triangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -233,4 +234,12 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
