@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
