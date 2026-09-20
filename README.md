@@ -106,6 +106,7 @@
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0101-symmetric-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | [0101-symmetric-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +226,7 @@
 | [0101-symmetric-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
