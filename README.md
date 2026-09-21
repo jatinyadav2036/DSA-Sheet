@@ -124,6 +124,7 @@
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0338-counting-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
