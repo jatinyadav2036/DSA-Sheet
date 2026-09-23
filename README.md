@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0367-valid-perfect-square) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0479-largest-palindrome-product](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0479-largest-palindrome-product) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
@@ -154,6 +155,7 @@
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
