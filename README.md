@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
