@@ -220,6 +220,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@
 | [0101-symmetric-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Database
 |  |
 | ------- |
@@ -278,4 +282,8 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
