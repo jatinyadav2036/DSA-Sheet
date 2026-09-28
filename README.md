@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
