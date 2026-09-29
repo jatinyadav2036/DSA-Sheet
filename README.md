@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -67,6 +68,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prime Factorization
@@ -175,6 +177,7 @@
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -294,4 +298,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
