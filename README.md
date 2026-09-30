@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
@@ -121,6 +122,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
