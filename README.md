@@ -10,6 +10,7 @@
 | [0050-powx-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0055-jump-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
