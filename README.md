@@ -100,6 +100,7 @@
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 ## Quicksort
@@ -275,6 +277,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0203-remove-linked-list-elements) |
 ## Interactive
 |  |
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 ## Design
@@ -322,4 +326,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0069-sqrtx) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
