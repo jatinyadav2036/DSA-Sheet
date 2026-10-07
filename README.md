@@ -124,6 +124,7 @@
 | [0344-reverse-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0434-number-of-segments-in-a-string) |
 ## Recursion
 |  |
@@ -131,6 +132,7 @@
 | [0050-powx-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
