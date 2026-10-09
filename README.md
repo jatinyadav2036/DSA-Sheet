@@ -18,6 +18,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0441-arranging-coins](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0441-arranging-coins) |
 | [0479-largest-palindrome-product](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0479-largest-palindrome-product) |
+| [0492-construct-the-rectangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
