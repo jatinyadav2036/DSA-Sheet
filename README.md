@@ -111,6 +111,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0434-number-of-segments-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 ## Newton's Method
 |  |
 | ------- |
