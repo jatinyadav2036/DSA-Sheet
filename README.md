@@ -67,6 +67,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0598-range-addition-ii) |
+| [0697-degree-of-an-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0697-degree-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [0290-word-pattern](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0697-degree-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prime Factorization
