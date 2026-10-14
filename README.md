@@ -254,6 +254,7 @@
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0257-binary-tree-paths](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
