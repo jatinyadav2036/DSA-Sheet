@@ -69,6 +69,7 @@
 | [0598-range-addition-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0598-range-addition-ii) |
 | [0697-degree-of-an-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -80,6 +81,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prime Factorization
@@ -297,6 +299,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0203-remove-linked-list-elements) |
+| [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 ## Interactive
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -333,6 +337,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 ## Counting
 |  |
 | ------- |
