@@ -141,6 +141,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0709-to-lower-case) |
 ## Recursion
 |  |
 | ------- |
