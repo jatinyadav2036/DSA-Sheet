@@ -72,6 +72,7 @@
 | [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0724-find-pivot-index) |
 ## Minimax
 |  |
 | ------- |
