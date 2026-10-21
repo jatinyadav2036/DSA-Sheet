@@ -21,6 +21,7 @@
 | [0492-construct-the-rectangle](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0598-range-addition-ii) |
+| [0728-self-dividing-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0728-self-dividing-numbers) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
