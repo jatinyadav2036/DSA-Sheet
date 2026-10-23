@@ -75,6 +75,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -183,6 +184,7 @@
 | [0367-valid-perfect-square](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
