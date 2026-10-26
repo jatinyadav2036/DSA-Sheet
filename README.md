@@ -76,6 +76,7 @@
 | [0724-find-pivot-index](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -203,6 +204,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
