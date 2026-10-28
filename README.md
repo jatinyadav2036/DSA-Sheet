@@ -77,6 +77,7 @@
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -219,6 +220,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Quicksort
 |  |
 | ------- |
