@@ -78,6 +78,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | [0697-degree-of-an-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prime Factorization
@@ -149,6 +151,7 @@
 | [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 ## Recursion
 |  |
 | ------- |
