@@ -79,6 +79,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -382,4 +383,5 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
