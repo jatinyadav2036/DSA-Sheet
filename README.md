@@ -276,6 +276,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0226-invert-binary-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Database
 |  |
 | ------- |
@@ -355,6 +359,7 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Hash Function
 |  |
 | ------- |
