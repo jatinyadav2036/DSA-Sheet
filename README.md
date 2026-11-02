@@ -81,6 +81,7 @@
 | [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -156,6 +157,7 @@
 | [0709-to-lower-case](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
 ## Recursion
 |  |
 | ------- |
