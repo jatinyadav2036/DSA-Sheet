@@ -22,6 +22,7 @@
 | [0509-fibonacci-number](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
@@ -82,6 +83,7 @@
 | [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -394,4 +396,12 @@
 | ------- |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
