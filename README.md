@@ -84,6 +84,7 @@
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [0392-is-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 ## Recursion
 |  |
 | ------- |
