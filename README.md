@@ -163,6 +163,7 @@
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0824-goat-latin) |
 ## Recursion
 |  |
 | ------- |
