@@ -85,6 +85,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -137,6 +138,7 @@
 | [0680-valid-palindrome-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -185,11 +187,13 @@
 | [0191-number-of-1-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0338-counting-bits) |
+| [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -401,6 +405,7 @@
 | ------- |
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 ## Geometry
 |  |
 | ------- |
