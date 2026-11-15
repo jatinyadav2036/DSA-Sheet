@@ -23,6 +23,7 @@
 | [0598-range-addition-ii](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
@@ -410,6 +411,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0836-rectangle-overlap) |
 ## Polygons
 |  |
 | ------- |
