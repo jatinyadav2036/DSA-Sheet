@@ -140,6 +140,7 @@
 | [0696-count-binary-substrings](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -281,6 +284,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
