@@ -87,6 +87,7 @@
 | [0812-largest-triangle-area](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -198,6 +199,7 @@
 | [0067-add-binary](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -411,6 +413,7 @@
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0867-transpose-matrix) |
 ## Geometry
 |  |
 | ------- |
