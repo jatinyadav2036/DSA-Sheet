@@ -192,6 +192,7 @@
 | [0231-power-of-two](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0868-binary-gap) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
