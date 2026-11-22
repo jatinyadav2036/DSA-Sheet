@@ -90,6 +90,7 @@
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -106,6 +107,7 @@
 | [0748-shortest-completing-word](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prime Factorization
@@ -218,6 +220,7 @@
 | [0441-arranging-coins](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
 ## Backtracking
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
 ## Quicksort
 |  |
 | ------- |
