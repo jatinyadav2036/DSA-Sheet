@@ -93,6 +93,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0892-surface-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0896-monotonic-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
