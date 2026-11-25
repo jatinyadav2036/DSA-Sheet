@@ -299,6 +299,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0733-flood-fill](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,6 +402,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0897-increasing-order-search-tree) |
 ## Hash Function
 |  |
 | ------- |
