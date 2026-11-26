@@ -94,6 +94,7 @@
 | [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0905-sort-array-by-parity) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -150,6 +151,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
