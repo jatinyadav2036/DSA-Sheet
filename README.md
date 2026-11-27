@@ -27,6 +27,7 @@
 | [0866-prime-palindrome](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0866-prime-palindrome) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0908-smallest-range-i) |
 | [1492-the-kth-factor-of-n](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/1922-count-good-numbers) |
 | [2427-number-of-common-factors](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2427-number-of-common-factors) |
@@ -95,6 +96,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/0908-smallest-range-i) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinyadav2036/DSA-Sheet/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
